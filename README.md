@@ -15,6 +15,7 @@
   <img src = "https://media.licdn.com/dms/image/v2/D5622AQG7Bz5NyFxC3g/feedshare-shrink_800/feedshare-shrink_800/0/1688551752839?e=2147483647&v=beta&t=GV-PZ9QqeKwUW-_6EtanrHkMORhH55fn1PdfAcgZPKU" width="300px" />
 
 ### Toolbox
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="60px"/>
@@ -22,6 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original-wordmark.svg" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px"/>
+</p>
 
 ### Certs & Courses
 
