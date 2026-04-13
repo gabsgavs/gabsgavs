@@ -9,10 +9,6 @@
 - Proud pet lover/owner;
   - Shotout to Mallu, Maria, Aurora and Anastacia. Babies, I do it for you! *(For real, I need to buy your food)*
 - Mostly experienced in Customer Success, migrating to tech so I can get a bunch of ideas out of my brain and into the web. 
-- Basically, I'm the Sales Face with the IT personality.
-  - Here is the image I just referred to:
-  
-  <img src = "https://media.licdn.com/dms/image/v2/D5622AQG7Bz5NyFxC3g/feedshare-shrink_800/feedshare-shrink_800/0/1688551752839?e=2147483647&v=beta&t=GV-PZ9QqeKwUW-_6EtanrHkMORhH55fn1PdfAcgZPKU" width="300px" />
 
 ### Toolbox
 <p align="center">
