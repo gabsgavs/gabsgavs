@@ -9,6 +9,7 @@
 - Proud pet lover/owner;
   - Shotout to Mallu, Maria, Aurora and Anastacia. Babies, I do it for you! *(For real, I need to buy your food)*
 - Mostly experienced in Customer Success, migrating to tech so I can get a bunch of ideas out of my brain and into the web. 
+- Currently developing a database for pets as a personal project.
 
 ### Toolbox
 <p align="center">
@@ -21,11 +22,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px"/>
 </p>
 
-### Certs & Courses
+### Certs & Courses (so far)
 
 - [Cert - CyberSecurity](https://www.linkedin.com/in/gabrielgaviorno/overlay/1772654968150/single-media-viewer/?profileId=ACoAACtrInEBtJZZvUhqpUwRnU8z_o2NOFpv3pk)
 - [Course - Linux](https://tryhackme.com/AG4BS/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=64371257fecaf000566a8537)
 - [Cert - JavaScript](https://hermes.dio.me/certificates/VAE9HXEM.pdf)
+- Cert - Machine Learning (In progress 🔜 ) 
 
 
 
